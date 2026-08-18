@@ -1,8 +1,22 @@
-🏦 Online Banking System
+<div align="center">
 
-A modular Online Banking and Accounting System built using Java, Spring, Spring Security, Spring Batch, PostgreSQL, Liquibase, Maven, and JUnit.
+# 🏦 Online Banking System
 
-The system simulates core banking operations while separating customer-facing banking functionality, back-office customer onboarding, shared banking components, and scheduled transaction processing into independent modules.
+### Secure & Modular Banking Application
+
+**Java 8 • Spring Boot 2.2.5 • Spring Security • Spring Batch • PostgreSQL**
+
+![Java](https://img.shields.io/badge/Java-8-orange)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.2.5-brightgreen)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-Security-green)
+![Spring Batch](https://img.shields.io/badge/Spring%20Batch-Processing-orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Maven](https://img.shields.io/badge/Maven-Build-red)
+
+</div>
+Modular Online Banking System built with Java, Spring Boot, Spring Security, Spring Batch, PostgreSQL and Liquibase.
+---
+
 
 ---
 
